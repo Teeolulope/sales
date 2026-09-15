@@ -16,7 +16,7 @@ The dashboard helps transform sales data into business insights by identifying *
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI** – Dashboard development and visualization
 - **Power Query** – Data cleaning and transformation
@@ -25,7 +25,7 @@ The dashboard helps transform sales data into business insights by identifying *
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 | Metric | Current Value | vs Previous Month |
 |---|---:|---:|
@@ -37,33 +37,33 @@ The dashboard helps transform sales data into business insights by identifying *
 
 ---
 
-## 🔎 Key Insights & Recommendations
+##  Key Insights & Recommendations
 
-### 👥 Customer & Order Growth
+###  Customer & Order Growth
 
 Distinct customers increased by **10.3%**, while completed orders increased by **5.5%**.
 
 **Recommendation:** Further analyze customer segments and order frequency to determine whether the growth is driven by new customers, returning customers, or changes in purchasing behavior.
 
-### 💰 Profit & Cost
+###  Profit & Cost
 
 Profit increased by **4.7%**, while COGS also increased by **4.7%**.
 
 **Recommendation:** Monitor COGS relative to revenue and investigate product-level margins to understand the drivers of cost and profitability.
 
-### 🛒 Average Order Revenue
+###  Average Order Revenue
 
 Average Order Revenue decreased by **3.5%** despite the increase in completed orders.
 
 **Recommendation:** Investigate order composition and consider cross-selling, upselling, and product bundling opportunities to increase order value.
 
-### 📦 Product Categories
+###  Product Categories
 
 **Electronics** recorded the highest number of completed orders (**896**), followed by Furniture (**881**), Office Supplies (**852**), and Apparel (**743**).
 
 **Recommendation:** Analyze category-level revenue and profit alongside order volume before making inventory or marketing decisions.
 
-### 🌎 Regional Performance
+###  Regional Performance
 
 Among the displayed states, **Illinois** recorded the highest profit at approximately **£0.12M**, while California recorded approximately **£0.09M**.
 
@@ -71,7 +71,7 @@ Among the displayed states, **Illinois** recorded the highest profit at approxim
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 - **Overview** – Key KPIs, sales trends, categories, transactions, and regional performance
 - **Product List** – Product-level analysis
@@ -80,7 +80,7 @@ Among the displayed states, **Illinois** recorded the highest profit at approxim
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Overview
 
@@ -95,7 +95,7 @@ Among the displayed states, **Illinois** recorded the highest profit at approxim
 <img width="1156" height="651" alt="Screenshot 2026-09-15 223446" src="https://github.com/user-attachments/assets/0c29495a-bf0a-497b-ae82-dc96f44659b4" />
 
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 Through this project, I demonstrated practical skills in:
 
@@ -111,7 +111,7 @@ Through this project, I demonstrated practical skills in:
 * Data Visualization
 * Business Intelligence
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Sales-Analysis/
@@ -126,7 +126,7 @@ Sales-Analysis/
 └── README.md
 ```
 
-## 👤 Author
+##  Author
 
 **Tolulope**
 
