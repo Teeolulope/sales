@@ -43,31 +43,75 @@ The dashboard helps transform sales data into business insights by identifying *
 
 Distinct customers increased by **10.3%**, while completed orders increased by **5.5%**.
 
-**Recommendation:** Further analyze customer segments and order frequency to determine whether the growth is driven by new customers, returning customers, or changes in purchasing behavior.
+**What Happened:**  
+Customer activity increased, but order growth was lower than customer growth.
+
+**Recommendation:**  
+Introduce **repeat-purchase campaigns and targeted offers** to encourage existing customers to make more frequent purchases and convert customer growth into additional sales.
+
+---
+
+###  Average Order Revenue Declined
+
+Average Order Revenue decreased by **3.5%**, despite completed orders increasing by **5.5%**.
+
+**What Happened:**  
+The business processed more completed orders, but the average value generated per order declined.
+
+**Recommendation:**  
+Use **cross-selling, upselling, and product bundles** to encourage customers to purchase additional or higher-value products and increase revenue per transaction.
+
+---
 
 ###  Profit & Cost
 
 Profit increased by **4.7%**, while COGS also increased by **4.7%**.
 
-**Recommendation:** Monitor COGS relative to revenue and investigate product-level margins to understand the drivers of cost and profitability.
+**What Happened:**  
+The business generated higher profit, but the cost of goods increased at the same rate.
 
-###  Average Order Revenue
+**Recommendation:**  
+Prioritize **higher-margin products**, negotiate better supplier pricing where possible, and reduce unnecessary product costs to improve overall profitability.
 
-Average Order Revenue decreased by **3.5%** despite the increase in completed orders.
+---
 
-**Recommendation:** Investigate order composition and consider cross-selling, upselling, and product bundling opportunities to increase order value.
+###  Product Category Performance
 
-###  Product Categories
+Electronics recorded the highest number of completed orders at **896**, followed by Furniture (**881**), Office Supplies (**852**), and Apparel (**743**).
 
-**Electronics** recorded the highest number of completed orders (**896**), followed by Furniture (**881**), Office Supplies (**852**), and Apparel (**743**).
+**What Happened:**  
+Electronics had the highest completed-order volume among the categories.
 
-**Recommendation:** Analyze category-level revenue and profit alongside order volume before making inventory or marketing decisions.
+**Recommendation:**  
+Maintain sufficient stock of high-demand Electronics products and use **related-product bundles and cross-selling** to increase the value generated from these orders.
+
+---
 
 ###  Regional Performance
 
-Among the displayed states, **Illinois** recorded the highest profit at approximately **£0.12M**, while California recorded approximately **£0.09M**.
+Among the states displayed, Illinois generated approximately **£0.12M** in profit, while California generated approximately **£0.09M**.
 
-**Recommendation:** Compare regional performance using revenue, profit margin, customer count, and order volume to understand the differences.
+**What Happened:**  
+Profit contribution varies across regions.
+
+**Recommendation:**  
+Strengthen sales activities in higher-performing regions while using **targeted promotions and customer incentives** to increase sales in lower-performing regions.
+
+---
+
+## 💡 Overall Business Recommendation
+
+The analysis shows that **customer activity, completed orders, and profit are increasing**, but Average Order Revenue is declining.
+
+To build on the current growth, the business should focus on:
+
+- **Increasing repeat purchases**
+- **Increasing average order value**
+- **Promoting high-demand products**
+- **Improving product margins**
+- **Strengthening regional sales strategies**
+
+These actions can help the business convert increased customer activity into **higher revenue and sustainable profitability**.
 
 ---
 
